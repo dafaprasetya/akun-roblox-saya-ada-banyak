@@ -44,10 +44,9 @@ Mekmek.exe login [username] [password]
 git clone https://github.com/dafaprasetya/roblok-saya-ada-banyak
 cd roblok-saya-ada-banyak
 ```
-## Buat Virtual Environment dan aktifkan
-Windows
+
+## Jalankan
 ```bash
-python -m venv env
-# Drag & drop activate.bat (di folder env/Scripts/) ke terminal
+Mekmek.exe -h
 ```
 LINUX/MAC using wine
