@@ -21,7 +21,7 @@ Mekmek.exe login [username] [password]
 
 ## Instalasi
 
-1. **Dowload Akun Roblox Saya Ada Banyak**
+1. **Dowload 'Akun Roblox Saya Ada Banyak' latest version**
    - Download dulu **[disini](https://github.com/dafaprasetya/akun-roblox-saya-ada-banyak/releases)**.
 
 2. **Download Browser**
