@@ -3,8 +3,21 @@
 AKUN ROBLOK SAYA ADA BANYAK
 
 ---
+Youtube [SALAMDER](https://www.youtube.com/@axolotlgamink)
+Tiktok [Code With Ashura](https://www.youtube.com/@axolotlgamink)
+DONATE: [tiptap.gg/prstya](https://tiptap.gg/prstya)
 
-## Persiapan & Instalasi
+## COMMAND LIST
+Create roblok akun
+```bash
+Mekmek.exe create [berapa]
+```
+Login dan update kuki
+```bash
+Mekmek.exe login [username] [password]
+```
+
+## Instalasi
 
 1. **Download Browser**
    - Install **[Microsoft Edge](https://www.microsoft.com/edge)**.
@@ -36,13 +49,3 @@ python -m venv env
 # Drag & drop activate.bat (di folder env/Scripts/) ke terminal
 ```
 LINUX/MAC using wine
-
-## COMMAND LIST
-Create roblok akun
-```bash
-Mekmek.exe create [berapa]
-```
-Login dan update kuki
-```bash
-Mekmek.exe login [username] [password]
-```
