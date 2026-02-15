@@ -1,6 +1,4 @@
-# Roblox Python uhuy
-
-AKUN ROBLOK SAYA ADA BANYAK
+# AKUN ROBLOK SAYA ADA BANYAK (ARSAB)
 
 ---
 Youtube [SALAMDER](https://www.youtube.com/@axolotlgamink)
