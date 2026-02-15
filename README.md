@@ -21,32 +21,21 @@ Mekmek.exe login [username] [password]
 
 ## Instalasi
 
-1. **Download Browser**
+1. **Dowload Akun Roblox Saya Ada Banyak**
+   - Download dulu **[disini](https://github.com/dafaprasetya/akun-roblox-saya-ada-banyak/releases/tag/roblox-scripts)**. Recomended Version: 145.0.3800.58.
+
+2. **Download Browser**
    - Install **[Microsoft Edge](https://www.microsoft.com/edge)**. Recomended Version: 145.0.3800.58.
 
-2. **Download Edge WebDriver**
+3. **Download Edge WebDriver**
    - Pastikan versi **Edge WebDriver** sesuai dengan versi browser Edge kamu.  
    - [Edge WebDriver Download](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/). Recomended Version: 145.0.3800.58.
    - pindahin ke folder yang sama
-
-3. **Download Python (Optional)**
-   - Install **[Python](https://www.python.org/downloads/)** versi **3.9 – 3.11**.
-
+   - 
 4. **Download Roblox Account Manager**
    - Install **[Roblox Account Manager](https://github.com/ic3w0lf22/Roblox-Account-Manager)**.
    - Di Roblox Account Manager, **enable developer mode** dan **enable webserver** dengan port `8866`. Restart jika baru diaktifkan.
 
----
+5. **Download Python (Optional)**
+   - Install **[Python](https://www.python.org/downloads/)** versi **3.9 – 3.11**.
 
-## Clone Repository
-
-```bash
-git clone https://github.com/dafaprasetya/roblok-saya-ada-banyak
-cd roblok-saya-ada-banyak
-```
-
-## Jalankan
-```bash
-Mekmek.exe -h
-```
-LINUX/MAC using wine
