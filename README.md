@@ -22,11 +22,11 @@ Mekmek.exe login [username] [password]
 ## Instalasi
 
 1. **Download Browser**
-   - Install **[Microsoft Edge](https://www.microsoft.com/edge)**.
+   - Install **[Microsoft Edge](https://www.microsoft.com/edge)**. Recomended Version: 145.0.3800.58.
 
 2. **Download Edge WebDriver**
    - Pastikan versi **Edge WebDriver** sesuai dengan versi browser Edge kamu.  
-   - [Edge WebDriver Download](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
+   - [Edge WebDriver Download](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/). Recomended Version: 145.0.3800.58.
    - pindahin ke folder yang sama
 
 3. **Download Python**
