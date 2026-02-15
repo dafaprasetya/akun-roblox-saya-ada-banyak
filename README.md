@@ -41,4 +41,4 @@ Mekmek.exe login [username] [password]
 
 ## Screenshot
 ![Screenshot](assets/terminal.png)
-![Screenshot](assets/roblokakunmenejer)
+![Screenshot](assets/roblokakunmenejer.png)
