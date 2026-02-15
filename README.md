@@ -1,6 +1,8 @@
 # AKUN ROBLOK SAYA ADA BANYAK (ARSAB)
 
 ---
+ARSAB adalah tools automasi untuk membuat akun roblox (altgen). gunakan tools ini dengan bijak dan sewajarnya. Terimakasih
+
 Youtube [SALAMDER](https://www.youtube.com/@axolotlgamink)
 
 Tiktok [Code With Ashura](https://www.youtube.com/@axolotlgamink)
