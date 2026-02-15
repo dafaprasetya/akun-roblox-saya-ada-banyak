@@ -36,3 +36,13 @@ python -m venv env
 # Drag & drop activate.bat (di folder env/Scripts/) ke terminal
 ```
 LINUX/MAC using wine
+
+## COMMAND LIST
+Create roblok akun
+```bash
+Mekmek.exe create [berapa]
+```
+Login dan update kuki
+```bash
+Mekmek.exe login [username] [password]
+```
