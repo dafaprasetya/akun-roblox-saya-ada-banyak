@@ -29,7 +29,7 @@ Mekmek.exe login [username] [password]
    - [Edge WebDriver Download](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/). Recomended Version: 145.0.3800.58.
    - pindahin ke folder yang sama
 
-3. **Download Python**
+3. **Download Python (Optional)**
    - Install **[Python](https://www.python.org/downloads/)** versi **3.9 – 3.11**.
 
 4. **Download Roblox Account Manager**
