@@ -22,7 +22,7 @@ Mekmek.exe login [username] [password]
 ## Instalasi
 
 1. **Dowload Akun Roblox Saya Ada Banyak**
-   - Download dulu **[disini](https://github.com/dafaprasetya/akun-roblox-saya-ada-banyak/releases/tag/roblox-scripts)**. Recomended Version: 145.0.3800.58.
+   - Download dulu **[disini](https://github.com/dafaprasetya/akun-roblox-saya-ada-banyak/releases/tag/roblox-scripts)**.
 
 2. **Download Browser**
    - Install **[Microsoft Edge](https://www.microsoft.com/edge)**. Recomended Version: 145.0.3800.58.
