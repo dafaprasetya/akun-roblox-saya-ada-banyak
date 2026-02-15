@@ -39,3 +39,5 @@ Mekmek.exe login [username] [password]
 5. **Download Python (Optional)**
    - Install **[Python](https://www.python.org/downloads/)** versi **3.9 – 3.11**.
 
+## Screenshot
+![Screenshot](assets/terminal.png)
